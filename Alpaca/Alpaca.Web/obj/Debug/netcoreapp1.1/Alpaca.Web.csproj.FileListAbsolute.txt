@@ -1,9 +1,0 @@
-C:\As\Github\Alpaca\Alpaca.Web\bin\Debug\netcoreapp1.1\Alpaca.Web.deps.json
-C:\As\Github\Alpaca\Alpaca.Web\bin\Debug\netcoreapp1.1\Alpaca.Web.runtimeconfig.json
-C:\As\Github\Alpaca\Alpaca.Web\bin\Debug\netcoreapp1.1\Alpaca.Web.runtimeconfig.dev.json
-C:\As\Github\Alpaca\Alpaca.Web\bin\Debug\netcoreapp1.1\Alpaca.Web.dll
-C:\As\Github\Alpaca\Alpaca.Web\bin\Debug\netcoreapp1.1\Alpaca.Web.pdb
-C:\As\Github\Alpaca\Alpaca.Web\obj\Debug\netcoreapp1.1\Alpaca.Web.csprojResolveAssemblyReference.cache
-C:\As\Github\Alpaca\Alpaca.Web\obj\Debug\netcoreapp1.1\Alpaca.Web.AssemblyInfo.cs
-C:\As\Github\Alpaca\Alpaca.Web\obj\Debug\netcoreapp1.1\Alpaca.Web.dll
-C:\As\Github\Alpaca\Alpaca.Web\obj\Debug\netcoreapp1.1\Alpaca.Web.pdb
